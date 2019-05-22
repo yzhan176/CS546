@@ -1,0 +1,20 @@
+<main class = "new-login">
+    <h1>Login</h1>
+    <p id = "searchP">Please provide your username and password</p>
+    <form action = "/login" method = "POST" id = "login-form" >
+        <label>
+            Username
+            <input type="text" name = "username" placeholder="username"/>
+        </label>
+        <label>
+            Password
+            <input type="text" name = "password" placeholder="password"/>
+        </label>
+        <button type = "submit" class = "submitButton" >Submit</button>
+    </form>
+    {{#if boo}}
+        <p>
+            {{error}}
+        </p>
+    {{/if}}
+</main>

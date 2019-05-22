@@ -1,0 +1,104 @@
+.new-login{
+    background: pink;
+}
+.new-search-form {
+    max-width: 300px;
+    display: block;
+    min-height: 3em;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.full-width-input {
+    display: block;
+    min-height: 3em;
+    margin: 10px 0;
+    width: 100%;
+  }
+
+.submitButton{
+    color:green;
+}
+
+label {
+    font-weight: bold;
+}
+
+#searchP{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    font-size: 14pt;
+  }
+  
+  body {
+    background: #dedede;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+  
+  main {
+    max-width: 75%;
+    margin: auto;
+  }
+  
+  header {
+    border-bottom: 1px solid #afafaf;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #222;
+    margin-bottom: 5px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+  }
+  
+  h4 {
+    font-size: 1.25rem;
+  }
+  
+  h5 {
+    font-size: 1.15rem;
+  }
+  
+  h6 {
+    font-size: 1.05rem;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 2;
+  }
+
+  li{
+      color:yellow;
+      font-size:20px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  dl{
+      color:blue;
+      font-size:25px;
+      font-family: Arial, Helvetica, sans-serif
+  }
