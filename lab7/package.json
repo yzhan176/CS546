@@ -1,0 +1,18 @@
+{
+  "name": "cs-546-lab-7",
+  "version": "1.0.0",
+  "description": "My lab 7 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "Yan Zhang 10440738",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "node-uuid": "^1.4.8"
+  }
+}
