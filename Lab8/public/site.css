@@ -1,0 +1,39 @@
+body {
+  font-size: 12pt;
+  background: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-size:20pt;
+  color:red;
+} 
+h2 {
+  font-size: 15pt;
+  color:gray;
+}
+p {
+  color:blue;
+}
+label {
+  color:green;
+}
+input {
+  color:red;
+}
+button {
+  color:blue;
+}
+a {
+  color:rgba(0, 0, 0, 0.993);
+  font-size: 12pt;
+} 
+dl {
+  color:brown;
+}
+dt {
+  color:blue;
+  font-size:12pt;
+}
+dd {
+  color:red;
+}
